@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "788536548988",
+    "project_id": "unitrail-db9e1",
+    "storage_bucket": "unitrail-db9e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788536548988:android:1644d35c919f4cf23db3f9",
+        "android_client_info": {
+          "package_name": "com.example.unitrail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788536548988-n7gph2uauvef01ok5ev4ghbh7fqgpquu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHkz7qLR__edXJJUljDNcJXEWgTWkdgo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788536548988-n7gph2uauvef01ok5ev4ghbh7fqgpquu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "788536548988-dm79og29vcdiipem4ordj4q3hb3j4hpe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.unitrail"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
